@@ -1,0 +1,19 @@
+/* 
+  Localizable.strings
+ MVVMCoreData
+
+  Created by Divya on 25/02/24.
+  
+*/
+
+// home
+"Alpha" = "Alpha";
+"List" = "Liste";
+"Created Date" = "Date de création";
+// Add category
+"Details" = "Détails";
+"New Category" = "Nouvelle catégorie";
+"Enter category name" = "Entrez le nom de la catégorie";
+"Save" = "Sauvegarder";
+"Add" = "Ajouter";
+
